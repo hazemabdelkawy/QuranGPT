@@ -122,3 +122,4 @@ dmypy.json
 
 # JSON files
 *.json
+.DS_Store
