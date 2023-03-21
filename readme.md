@@ -1,6 +1,14 @@
-# Quran GPT
+# Abstract
 
-Quran GPT is a project that leverages the power of the GPT-4 language model to generate meaningful embeddings for Quran verses. This project not only generates embeddings for the verses but also visualizes the distribution of these embeddings using t-SNE in a 3D scatter plot. By doing so, it helps to explore and analyze the relationships between Quran verses, providing a new perspective on the Holy Quran.
+QuranGPT is a natural language processing (NLP) project aimed at generating textual embeddings for Quran verses using OpenAI's GPT-4 model. The project is designed to provide researchers and developers with a comprehensive and structured dataset of Quranic verses, complete with accurate Arabic and English translations, and GPT-4 embeddings. We believe that QuranGPT represents a significant step forward in the field of NLP and Islamic studies, providing researchers with a powerful tool for analyzing and understanding the Holy Quran.
+
+# Introduction
+
+The Holy Quran is the central religious text of Islam, providing guidance and insights into the teachings of Islam. Despite its importance, the Quran can be challenging to study and analyze, particularly given the complexity of the Arabic language. In recent years, natural language processing (NLP) has emerged as a powerful tool for analyzing text data, offering researchers new ways to uncover insights and patterns in large datasets.
+
+QuranGPT is a project that leverages NLP techniques to generate textual embeddings for Quran verses using OpenAI's GPT-4 model. This provides researchers with a powerful tool for studying and analyzing the Quran. The project also offers a comprehensive and structured dataset of Quranic verses, complete with accurate Arabic and English translations, and GPT-4 embeddings.
+
+QuranGPT represents a significant step forward in the field of NLP and Islamic studies, providing researchers with a powerful tool for analyzing and understanding the Holy Quran. We believe that this project has significant potential for advancing research in this area and facilitating new insights into the teachings of Islam and the Quranic text.
 
 ## Features
 
