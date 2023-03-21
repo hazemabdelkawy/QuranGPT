@@ -25,6 +25,10 @@ Quran GPT is a project that leverages the power of the GPT-4 language model to g
 - openai.api_key: Set the OpenAI API key for authentication. Make sure to replace "Use your own key here" with your personal API key.
 - logging.basicConfig(level=logging.INFO): Configure the logging level. In this case, the logging level is set to INFO, which will provide more detailed output than the default WARNING level. Other logging levels include DEBUG, ERROR, and CRITICAL.
 
+## Data
+Kindly find the collected data in this folder : 
+- QuranGPT : https://drive.google.com/drive/folders/1VyMTs6_H07RMRYM8jn-SFtM7XbeiSFEU?usp=share_link
+
 ## Acknowledgements
 
 - This project utilizes the OpenAI GPT-4 language model for generating embeddings.
