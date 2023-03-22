@@ -123,3 +123,4 @@ dmypy.json
 # JSON files
 *.json
 .DS_Store
+src/config.py
