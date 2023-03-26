@@ -123,4 +123,4 @@ dmypy.json
 # JSON files
 .DS_Store
 src/config.py
-data/embeddings/
+data/embedding/
